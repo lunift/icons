@@ -10,4 +10,10 @@
 <p>At Lunift Icons, we make completely free SVG icons for use in the community.</p>
 <h3>Contributing</h3>
 Please read the [Contributing Guidlines](https://github.com/lunift/icons/CONTRIBUTING.MD).
+
+# Software Used
+  Krita  
+  Sketch  
+  Gravit Designer PRO  
+  Adobe Illustrator  
 </div>
