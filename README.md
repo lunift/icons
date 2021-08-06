@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/lunift/icons/main/images/logonbg.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/lunift/icons/main/images/logo.png"></div>
 
 <h1 align="center">Lunift Icons</h1>
 <h3 align="center">About</h3>
