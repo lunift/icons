@@ -1,2 +1,6 @@
-<h1 align="center"><strong>Lunift Icons</strong></h1>
-<h5 align="center">Icons for any occasion</h5>
+<div align="center"><img src="https://raw.githubusercontent.com/lunift/icons/main/images/logonbg.png"></div>
+
+<h1 align="center">Lunift Icons</h1>
+<h3 align="center">About</h3>
+<p align="center">At Lunift Icons, we make SVG icons for use in the community.</p>
+<h3 align="center">Contributing</h3>
