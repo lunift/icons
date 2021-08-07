@@ -9,7 +9,7 @@
 <h3>About</h3>
 <p>At Lunift Icons, we make completely free SVG icons for use in the community.</p>
 <h3>Contributing</h3>
-To qualify as a contributor, please read the [Contributing Guidlines](https://github.com/lunift/icons/blob/main/CONTRIBUTING.md).
+To qualify as a contributor, please read the <a href="https://github.com/lunift/icons/blob/main/CONTRIBUTING.md">Contributing Guidlines</a>.
 
 # Software Used
   Krita  
