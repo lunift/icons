@@ -16,4 +16,5 @@ To qualify as a contributor, please read the <a href="https://github.com/lunift/
   Sketch  
   Gravit Designer PRO  
   Adobe Illustrator  
+  Lunacy
 </div>
